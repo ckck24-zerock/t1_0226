@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <Count1></Count1>
+      <Count1 start={10}></Count1>
     </>
   )
 }
